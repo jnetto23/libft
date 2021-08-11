@@ -1,0 +1,11 @@
+{
+  "42header.username": "jmarque2",
+  "42header.email": "jmarque2@student.42sp.org.br",
+  "editor.renderWhitespace": "all",
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": false,
+  "editor.rulers": [80],
+  "editor.wordWrap": "wordWrapColumn",
+  "files.eol": "\n"
+}
+
